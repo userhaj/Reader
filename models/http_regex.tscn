@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://1bgpkhvbb7ut"]
+
+[ext_resource type="Script" path="res://models/http_regex.gd" id="1_hidyl"]
+
+[node name="HttpRegex" type="Node"]
+script = ExtResource("1_hidyl")
